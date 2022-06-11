@@ -1,0 +1,11 @@
+Capability Codes: R - Router, T - Trans Bridge, B - Source Route Bridge
+                  S - Switch, H - Host, I - IGMP, r - Repeater, P - Phone, 
+                  D - Remote, C - CVTA, M - Two-port Mac Relay 
+
+Device ID        Local Intrfce     Holdtme    Capability  Platform  Port ID
+any-device-name.any-domain.com
+                 Gig 0             122              S I   WS-C3750G Gig 1/0/42
+device-name-2    Ten 0/1/0         177             R S I  C9500-16X Ten 1/0/6
+device-name-3    Ten 0/1/1         137             R S I  C9500-16X Ten 1/0/5
+
+Total cdp entries displayed : 3
